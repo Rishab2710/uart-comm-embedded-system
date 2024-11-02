@@ -6,6 +6,5 @@
 
 > Main file: https://github.com/Rishab2710/uart-comm-embedded-system/blob/main/Fall2022Source.c
 
-> Project Report (after clicking the link, Click on View Raw to download the Word document): https://github.com/theSmitChawda/uart-comm-embedded-system/blob/master/ProjectReport_2022.pdf
-
+> Project Report: https://github.com/Rishab2710/uart-comm-embedded-system/blob/main/ProjectReport_2022.pdf
 ----------------------------------------------------------------------------------------------------------------------
